@@ -8,6 +8,8 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 
 Aware of the importance of data collection to his business growth, Danny presented an ER diagram of his database but this still needs a bit of data cleaning and calculations to have a better understanding of his business.
 
+![download](https://github.com/Originalfemo/Danny-Ma-Case-Study-2-Pizza-runner-/assets/66992229/23802455-89af-4ac2-ba64-f678d91dda23)
+
 This case study has LOTS of questions and are broken up by area of focus including: Pizza Metrics, Runner and Customer Experience, Ingredient Optimisation, Pricing and Ratings, and Bonus DML Challenges (DML = Data Manipulation Language).
 
 This code contains answers to Pizza Metrics and Runner & Customer Experience. Al this was done only after some data cleaning has been carried out to ensure the data is suitable for proper EDA.
